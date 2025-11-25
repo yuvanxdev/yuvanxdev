@@ -52,7 +52,7 @@
 
 # 🎨 My GitHub Contribution Heatmap  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvan-Be&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=00C9FF&point=8b8b8b" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvanxdev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=00C9FF&point=8b8b8b" />
 </div>
 
 ---
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/Yuvan-Be">
+<a href="https://github.com/yuvanxdev">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
