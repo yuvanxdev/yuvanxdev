@@ -22,7 +22,7 @@
 * 💡 Interested in **React, UI/UX, TailwindCSS**
 * 🤖 Exploring **AI tools** to optimize workflow
 * 🌱 Currently learning **Data Structures and Algorithms**
-* 🎯 Open-source contributor  
+* 🎯 Contributing to a Open Source Projects is always been a goal to me
 * 📧 How to Reach me **yuvan191206@gmail.com**
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/132PjFCUmGyxC-VNo0-ei0mW5kwcGgR21/view?usp=drivesdk)
 * ⚡ When you're tired, do what you love because it's the mind that's weary, not the body
