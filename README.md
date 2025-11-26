@@ -100,7 +100,7 @@
 
 # 🔥 LeetCode Progress  
 <p align="center">  
-  <img src="https://leetcard.jacoblin.cool/Yuvan_cit?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/Yuvan_cit?theme=dark&font=Fira%20Code&ext=contest&radius=20" />
 </p>
 
 ---
