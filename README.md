@@ -7,6 +7,10 @@
 </p>
 
 ---
+<!-- profile views count -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=yuvanxdev&label=Profile%20Views&color=FF00FF&style=flat-square" />
+</p>
 
 <!-- ───────────────────────────── About ───────────────────────────── -->
 
@@ -96,7 +100,7 @@
 
 # 🔥 LeetCode Progress  
 <p align="center">  
-  <img src="https://leetcard.jacoblin.cool/Yuvan_cit?theme=dark&font=Roboto&ext=heatmap&border=0&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/Yuvan_cit?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" />
 </p>
 
 ---
@@ -105,7 +109,8 @@
 # 📊 GitHub Analytics  
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=yuvanxdev&theme=tokyonight&border_radius=20" />
+ <img height="180" 
+src="https://github-readme-streak-stats.herokuapp.com?user=yuvanxdev&theme=highcontrast&border_radius=8&ring=FF00FF&fire=00FFFF&currStreakLabel=00E5FF" />
 </p>
 
 <p align="center">
