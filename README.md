@@ -1,36 +1,94 @@
-<!-- Banner -->
+<!-- ───────────────────────────── Header ───────────────────────────── -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Yuvan%20Here!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=600&height=80&lines=Frontend+Developer+Enthusiast;CSE+2nd+Year+Student;React+%7C+Tailwind+%7C+JavaScript;Learning+AI+Tools+%F0%9F%A4%96;Always+Building+Something+Cool+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3500&center=true&vCenter=true&width=600&height=80&lines=Aspiring+Software+Developer;Frontend+Developer+Enthusiast;AI+Tinkerer;Computer+Science+Undergraduate;Always+Building+Something+Cool+🔥" />
 </p>
 
 ---
 
-## 🚀 About Me  
-✨ Hi! I'm **Yuvan**, very passionate about *Programming*, *Problem-Solving*, and Frontend Development
+<!-- ───────────────────────────── About ───────────────────────────── -->
 
-- 🔭 I’m currently pursuing a **B.E. CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
-- 💡 Interested in Frontend Development, **UI/UX**, **React**, and **TailwindCSS**
-- 🤖 Love to explore AI tools to enhance productivity & creativity
-- 🎯 Contributing to Open Source Projects is always been a goal
-- 📫 How to reach me: **yuvan191206@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/132PjFCUmGyxC-VNo0-ei0mW5kwcGgR21/view?usp=drivesdk)
-- ⚡ When you're tired, do what you love because it's the mind that's weary, not the body
+## 🚀 About Me  
+
+✨ Hi! I'm **Yuvan**, passionate about *Programming*, *Frontend Development*, and *Creative Problem Solving*.
+
+* 🔭 Pursuing **B.E. CSE at Chennai Institute Of Technology**
+* 💡 Interested in **React, UI/UX, TailwindCSS**
+* 🤖 Exploring **AI tools** to optimize workflow
+* 🌱 Currently learning **Data Structures and Algorithms**
+* 🎯 Open-source contributor  
+* 📧 How to Reach me **yuvan191206@gmail.com**
+* 📄 Know about my experiences [Resume](https://drive.google.com/file/d/132PjFCUmGyxC-VNo0-ei0mW5kwcGgR21/view?usp=drivesdk)
+* ⚡ When you're tired, do what you love because it's the mind that's weary, not the body
 
 ---
-# 🛠 Tech Stack  
+
+<!-- ───────────────────────────── Tech Stack (Premium) ───────────────────────────── -->
+
+# 🛠 Tech Stack
+
 <div align="center">
 
-### 🌐 *Programming Languages*
-<img src="https://skillicons.dev/icons?i=js,python,java,c&theme=light" />
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+      <b>Java</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+      <b>C Language</b>
+    </td>
+  </tr>
 
-### 💻 *Frontend Toolkit*
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=light" />
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+      <b>HTML</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+      <b>CSS</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+      <b>React</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>
+      <b>Tailwind CSS</b>
+    </td>
+  </tr>
 
-### 🛠 *Other Tools*
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=light" />
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+      <b>Git</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+      <b>VS Code</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=figma" width="55"/><br>
+      <b>Figma</b>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -42,60 +100,43 @@
 </p>
 
 ---
+<!-- ───────────────────────────── Stats Section ───────────────────────────── -->
 
 # 📊 GitHub Analytics  
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <!-- GitHub Streak -->
+<p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=yuvanxdev&theme=tokyonight&border_radius=20" />
+</p>
 
-  <!-- Overall GitHub Stats -->
-  <img height="170" src="https://awesome-github-stats.azurewebsites.net/user-stats/yuvanxdev?theme=dark" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuvanxdev&theme=github_dark"
+       alt="GitHub Contribution Summary" />
+</p>
 
+<div align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yuvanxdev&show_icons=true&count_private=true&theme=react&border_color=00C9FF&bg_color=0D1117&title_color=92FE9D&icon_color=00E5FF"
+       height="170px" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yuvanxdev&langs_count=8&layout=compact&theme=react&border_color=00C9FF&bg_color=0D1117&title_color=92FE9D&icon_color=00E5FF"
+       height="170px" />
 </div>
 
-
----
-
-# 🎨 My GitHub Contribution Heatmap  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvanxdev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=00C9FF&point=8b8b8b" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation"
+         src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
----
+<!-- ───────────────────────────── Heatmap ───────────────────────────── -->
 
-## 🌐 Connect With Me  
 <p align="center">
-
-<a href="https://www.linkedin.com/in/yuvancit/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/yuvanxdev" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/Yuvan_cit/" target="blank">
-  <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/yuvan_realms/" target="blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://wa.me/7358528957" target="blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvanxdev&theme=react-dark&hide_border=true&bg_color=0D1117&color=00C9FF&line=00C9FF&point=92FE9D&area=true" />
 </p>
 
----
+<!-- ───────────────────────────── Footer ───────────────────────────── -->
 
-# ⚡ Fun Fact  
-<p align="center"><i>I'm building myself one step at a time — through code, curiosity, and creativity.</i></p>
-
----
-
-<!-- Footer Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
